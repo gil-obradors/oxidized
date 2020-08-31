@@ -8,6 +8,8 @@
   * [AEN](/lib/oxidized/model/aen.rb)
 * Adtran
   * [Total Access (AOS)](/lib/oxidized/model/adtran.rb)
+* Adva
+  * [ADVA Optical Networking FSP 150](/lib/oxidized/model/adva.rb)
 * Alcatel-Lucent
   * [AOS](/lib/oxidized/model/aos.rb)
   * [AOS7](/lib/oxidized/model/aos7.rb)
